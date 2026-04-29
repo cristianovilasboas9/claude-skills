@@ -382,8 +382,7 @@ Every plugin follows the same minimal schema for maximum portability:
   "author": { "name": "Author Name" },
   "homepage": "https://...",
   "repository": "https://...",
-  "license": "MIT",
-  "skills": "."
+  "license": "MIT"
 }
 ```
 

@@ -159,8 +159,7 @@ skill-name/
   "author": "alirezarezvani",
   "homepage": "https://github.com/alirezarezvani/claude-skills",
   "repository": "https://github.com/alirezarezvani/claude-skills",
-  "license": "MIT",
-  "skills": "."
+  "license": "MIT"
 }
 ```
 **Only these fields. Nothing else.**
